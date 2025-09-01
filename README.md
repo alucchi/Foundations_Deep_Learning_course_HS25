@@ -11,7 +11,7 @@ Bernoullistrasse 30/32, Hörsaal 103
 
 
 ## Prerequisites
-There is no exercise or lecture on Monday 15/09/2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+There is no exercise or lecture on Monday, September 15, 2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
