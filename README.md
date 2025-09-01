@@ -75,5 +75,5 @@ Projects have to be completed within a group of 2-3 students. Two types of proje
 1) A novel and sound solution to a problem discussed in the class
 2) Thorough theoretical analysis of an existing deep learning approach discussed in the class
 Students cannot use their own published work as the course project.
-Deadline: 12/02/2026 12:00 Bern time
+Deadline: Thursday, February 12, 2026, 12:00 Bern time
 Submission: on ADAM
