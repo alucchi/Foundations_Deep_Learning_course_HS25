@@ -4,10 +4,10 @@ A series of lectures covering the prerequisites for the class can be found [here
 
 ## Weekly schedule
 Wednesday, 12.15-14.00 
-Spiegelgasse 5, Seminarraum 05.001
+Spiegelgasse 5, Seminarraum 05.002
 
 Thursday, 16.15-18.00 
-Spiegelgasse 5, Seminarraum 05.001
+Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
