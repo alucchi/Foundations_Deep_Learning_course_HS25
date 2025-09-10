@@ -58,7 +58,7 @@ There is no exercise or lecture on Wednesday, September 17, 2025. Please use thi
 
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
-- 25% mid-term exam (written). Preliminary date: during exercise session on Thursday, November 6, 2025
+- 25% mid-term exam (written). Preliminary date: during exercise session on Thursday, October 30, 2025
 - 25% project (writeup and presentation (for bonus))
 - 35% written exam (written)
 
