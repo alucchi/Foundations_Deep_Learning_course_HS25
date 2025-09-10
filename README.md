@@ -20,19 +20,19 @@ There is no exercise or lecture on Wednesday, September 17, 2025. Please use thi
 
 | Week    | Date       | Weekday | Topic                                            | Slides                                   |
 |---------|------------|---------|--------------------------------------------------|------------------------------------------|
-| 0       | 24/09/2025 | Wednesday| Introduction + Linear & non-linear networks      ||
-| 1       | 01/10/2025 | Wednesday| Linear & non-linear networks                     ||               
-| 2       | 08/10/2025 | Wednesday| Approximation Theory                             ||           
-| 3       | 15/10/2025 | Wednesday| Complexity Theory                                ||           
-| 4       | 22/10/2025 | Wednesday| Optimization                                     ||           
-| 5       | 29/10/2025 | Wednesday| Optimization Landscape of Neural Networks        ||          
-| 6       | 05/11/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)   | |           
-| 7       | 12/11/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)  | |           
-| 8       | 19/11/2025 | Wednesday| Neural Tangent Kernel                            ||           
-| 9       | 26/11/2025 | Wednesday| Generalization bounds I                          ||           
-| 10      | 03/12/2025 | Wednesday| Generalization bounds II                         | |           
-| 11      | 10/12/2025 | Wednesday| Adversarial Examples                             ||           
-| 12      | 17/12/2025 | Wednesday| Regularization                                   ||           
+| 0       | 17/09/2025 | Wednesday| Introduction + Linear & non-linear networks      ||
+| 1       | 24/09/2025 | Wednesday| Linear & non-linear networks                     ||               
+| 2       | 01/10/2025 | Wednesday| Approximation Theory                             ||           
+| 3       | 08/10/2025 | Wednesday| Complexity Theory                                ||           
+| 4       | 15/10/2025 | Wednesday| Optimization                                     ||           
+| 5       | 22/10/2025 | Wednesday| Optimization Landscape of Neural Networks        ||          
+| 6       | 29/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)   | |           
+| 7       | 05/11/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)  | |           
+| 8       | 12/11/2025 | Wednesday| Neural Tangent Kernel                            ||           
+| 9       | 19/11/2025 | Wednesday| Generalization bounds I                          ||           
+| 10      | 26/11/2025 | Wednesday| Generalization bounds II                         | |           
+| 11      | 03/12/2025 | Wednesday| Adversarial Examples                             ||           
+| 12      | 10/12/2025 | Wednesday| Regularization                                   ||           
        
 
 ## Exercise schedule
@@ -50,7 +50,7 @@ There is no exercise or lecture on Wednesday, September 17, 2025. Please use thi
 | 8        | 13/11/2025 | Thursday  | Neural Tangent Kernel                       ||           
 | 9        | 20/11/2025 | Thursday  | Architecture                       ||           
 | 10       | 27/11/2025 | Thursday  | Generalization bounds I                    ||           
-| 11       | 4/12/2025 | Thursday  | Generalization bounds II                         ||           
+| 11       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
 | 12       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)    ||           
 
 
