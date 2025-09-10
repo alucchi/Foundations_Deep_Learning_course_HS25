@@ -11,7 +11,7 @@ Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
-There is no exercise or lecture on Monday, September 15, 2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+There is no exercise or lecture on Wednesday, September 17, 2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
@@ -39,26 +39,26 @@ There is no exercise or lecture on Monday, September 15, 2025. Please use this t
 
 | Week     | Date       | Weekday   | Topic                                            | File                                                   |
 |----------|------------|-----------|--------------------------------------------------|--------------------------------------------------------|
-| 0        | 25/09/2025 | Thursday  | Prequisites (Recap)                              ||
-| 1        | 02/10/2025 | Thursday  | Basics + Linear & non-linear networks            ||           
-| 2        | 09/10/2025 | Thursday  | Approximation Theory                             ||           
-| 3        | 16/10/2025 | Thursday  | Tutorial session                                 ||           
-| 4        | 23/10/2025 | Thursday  | Complexity Theory                                ||           
-| 5        | 30/10/2025 | Thursday  | Optimization                                     ||          
-| 6        | 06/11/2025 | Thursday  | Midterm                                      |     |           
-| 7        | 13/11/2025 | Thursday| Optimization Landscape of Neural Networks   ||         
-| 8        | 20/11/2025 | Thursday  | Neural Tangent Kernel                       ||           
-| 9        | 27/11/2025 | Thursday  | Architecture                       ||           
-| 10       | 04/12/2025 | Thursday  | Generalization bounds I                    ||           
-| 11       | 11/12/2025 | Thursday  | Generalization bounds II                         ||           
-| 12       | 18/12/2025 | Thursday  | Regularization + Adversarial Examples     ||           
+| 0        | 18/09/2025 | Thursday  | Prequisites (Recap)                              ||
+| 1        | 25/09/2025 | Thursday  | Basics + Linear & non-linear networks            ||           
+| 2        | 02/10/2025 | Thursday  | Approximation Theory                             ||           
+| 3        | 09/10/2025 | Thursday  | Tutorial session                                 ||           
+| 4        | 16/10/2025 | Thursday  | Complexity Theory                                ||           
+| 5        | 23/10/2025 | Thursday  | Optimization                                     ||          
+| 6        | 30/10/2025 | Thursday  | Midterm                                      |     |           
+| 7        | 06/11/2025 | Thursday| Optimization Landscape of Neural Networks   ||         
+| 8        | 13/11/2025 | Thursday  | Neural Tangent Kernel                       ||           
+| 9        | 20/11/2025 | Thursday  | Architecture                       ||           
+| 10       | 27/11/2025 | Thursday  | Generalization bounds I                    ||           
+| 11       | 4/12/2025 | Thursday  | Generalization bounds II                         ||           
+| 12       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)    ||           
 
 
 ## Continuous assessment
 
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
-- 25% mid-term exam (written). Preliminary date: during exercise session on Monday 03.11.2025
+- 25% mid-term exam (written). Preliminary date: during exercise session on Thursday 06.11.2025
 - 25% project (writeup and presentation (for bonus))
 - 35% written exam (written)
 
