@@ -11,7 +11,7 @@ Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
-There is no exercise or lecture on Wednesday, September 17, 2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+Please to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
