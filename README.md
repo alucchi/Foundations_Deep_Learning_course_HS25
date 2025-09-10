@@ -9,7 +9,7 @@ Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
-Please to read the [first chapter](lecture_notes_2025/Lecture0_2025_deep_learning) of the notes to ensure you have the necessary background for the upcoming lecture.
+Please to read the [first chapter](lecture_notes_2025/Lecture0_2025_deep_learning.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
