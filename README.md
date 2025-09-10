@@ -1,5 +1,3 @@
-The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
-
 A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9).
 
 ## Weekly schedule
@@ -11,7 +9,7 @@ Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
-Please to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+Please to read the [first chapter](lecture_notes_2025/Lecture0_2025_deep_learning) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
