@@ -9,7 +9,7 @@ Spiegelgasse 5, Seminarraum 05.002
 
 
 ## Prerequisites
-Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
+Please to read the [first chapter](lecture_notes_2025/Lecture0_2025_deep_learning.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 &nbsp;
@@ -37,7 +37,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 
 | Week     | Date       | Weekday   | Topic                                            | File                                                   |
 |----------|------------|-----------|--------------------------------------------------|--------------------------------------------------------|
-| 0        | 18/09/2025 | Thursday  | Prequisites (Recap)                              ||
+| 0        | 18/09/2025 | Thursday  | Prequisites (Recap)                              |[Ex. 0](exercises_2025/Exercise00_2025_deep_learning.pdf)|
 | 1        | 25/09/2025 | Thursday  | Basics + Linear & non-linear networks            ||           
 | 2        | 02/10/2025 | Thursday  | Approximation Theory                             ||           
 | 3        | 09/10/2025 | Thursday  | Tutorial session                                 ||           
