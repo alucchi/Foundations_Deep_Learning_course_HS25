@@ -5,7 +5,7 @@ Wednesday, 12.15-14.00
 Spiegelgasse 5, Seminarraum 05.002
 
 Thursday, 16.15-18.00 
-Spiegelgasse 5, Seminarraum 05.002
+Spiegelgasse 5, Seminarraum 05.001
 
 
 ## Prerequisites
