@@ -18,9 +18,9 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 
 | Week    | Date       | Weekday | Topic                                            | Slides                                   |
 |---------|------------|---------|--------------------------------------------------|------------------------------------------|
-| 0       | 17/09/2025 | Wednesday| Introduction + Linear & non-linear networks      ||
-| 1       | 25/09/2025 | Thursday| Linear & non-linear networks                     ||               
-| 2       | 01/10/2025 | Wednesday| Approximation Theory                             ||           
+| 0       | 17/09/2025 | Wednesday| Introduction + Linear & non-linear networks      |[Slides 0](lecture_slides_2025/sl_00_prerequisites.pdf)|
+| 1       | 25/09/2025 | Thursday| Linear & non-linear networks                     |[Slides 1](lecture_slides_2025/sl_01_introduction.pdf)|               
+| 2       | 01/10/2025 | Wednesday| Approximation Theory                             |[Slides 2](lecture_slides_2025/sl_02_approximation.pdf)|           
 | 3       | 08/10/2025 | Wednesday| Complexity Theory                                ||           
 | 4       | 15/10/2025 | Wednesday| Optimization                                     ||           
 | 5       | 22/10/2025 | Wednesday| Optimization Landscape of Neural Networks        ||          
@@ -39,7 +39,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 |----------|------------|-----------|--------------------------------------------------|--------------------------------------------------------|
 | 0        | 18/09/2025 | Thursday  | Prequisites (Recap)                              |[Ex. 0](exercises_2025/Exercise00_2025_deep_learning.pdf)|
 | 1        | 24/09/2025 | Wednesday  | Basics + Linear & non-linear networks            |[Ex. 1](exercises_2025/Exercise01_2025_deep_learning.pdf)|           
-| 2        | 02/10/2025 | Thursday  | Approximation Theory                             ||           
+| 2        | 02/10/2025 | Thursday  | Approximation Theory                             |[Ex. 2](exercises_2025/Exercise02_2025_deep_learning.pdf)|           
 | 3        | 09/10/2025 | Thursday  | Tutorial session                                 ||           
 | 4        | 16/10/2025 | Thursday  | Complexity Theory                                ||           
 | 5        | 23/10/2025 | Thursday  | Optimization                                     ||          
