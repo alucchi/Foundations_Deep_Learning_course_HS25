@@ -57,7 +57,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 10       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
 | 11       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
 | 12       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)          ||           
-| 13       | 15/12/2025 | Wednesday | Q&A session + Continuous assessment              ||           
+| 13       | 17/12/2025 | Wednesday | Q&A session + Continuous assessment              ||           
 
 
 ## Continuous assessment
