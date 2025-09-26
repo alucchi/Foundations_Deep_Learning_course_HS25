@@ -17,7 +17,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 - CA3: Thursday, 13/11/2025 CA on Optimization Landscape in NN
 - CA4: Thursday, 20/11/2025 QA on Neural Tangent Kernel
 - CA5: Thursday, 11/12/2025 CA on Generalization bounds I + II
-- CA6: Wednesday, 17/12/2025 QA on Architectures & Regularization
+- CA6: Thursday, 18/12/2025 QA on Architectures & Regularization
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 10       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
 | 11       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
 | 12       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)          ||           
-| 13       | 17/12/2025 | Wednesday | Q&A session + Continuous assessment              ||           
+| 13       | 18/12/2025 | Thursday | Q&A session + Continuous assessment              ||           
 
 
 ## Continuous assessment
