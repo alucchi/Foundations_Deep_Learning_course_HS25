@@ -12,12 +12,12 @@ Spiegelgasse 5, Seminarraum 05.001
 Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 ## Preliminary dates for continuous assessments (15% of final grade)
-- CA1: 16/10/2025 CA on Approximation and complexity theory
-- CA2: 06/11/2025 QA on Optimization
-- CA3: 13/11/2025 CA on Optimization Landscape in NN
-- CA4: 20/11/2025 QA on Neural Tangent Kernel
-- CA5: 11/12/2025 CA on Generalization bounds I + II
-- CA6: 15/12/2025 QA on Architectures & Regularization
+- CA1: Thursday, 16/10/2025 CA on Approximation and complexity theory
+- CA2: Thursday, 06/11/2025 QA on Optimization
+- CA3: Thursday, 13/11/2025 CA on Optimization Landscape in NN
+- CA4: Thursday, 20/11/2025 QA on Neural Tangent Kernel
+- CA5: Thursday, 11/12/2025 CA on Generalization bounds I + II
+- CA6: Wednesday, 17/12/2025 QA on Architectures & Regularization
 
 &nbsp;
 
