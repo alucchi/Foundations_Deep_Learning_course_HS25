@@ -50,8 +50,8 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 3        | 09/10/2025 | Thursday  | Complexity Theory                                |[Ex. 3](exercises_2025/Exercise03_2025_deep_learning.pdf)|           
 | 4        | 16/10/2025 | Thursday  | Tutorial session                                 ||           
 | 5        | 23/10/2025 | Thursday  | Optimization                                     ||          
-| 6        | 30/10/2025 | Thursday  | Midterm                                          ||           
-| 7        | 06/11/2025 | Thursday  | Optimization Landscape of Neural Networks        ||         
+| 6        | 30/10/2025 | Thursday  | Optimization Landscape of Neural Networks                                           ||           
+| 7        | 06/11/2025 | Thursday  | Midterm        ||         
 | 8        | 13/11/2025 | Thursday  | Architecture                                     ||           
 | 9        | 20/11/2025 | Thursday  | Neural Tangent Kernel                            ||           
 | 10       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
