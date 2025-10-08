@@ -48,7 +48,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 1        | 24/09/2025 | Wednesday | Basics + Linear & non-linear networks            |[Ex. 1](exercises_2025/Exercise01_2025_deep_learning.pdf)|           
 | 2        | 02/10/2025 | Thursday  | Approximation Theory                             |[Ex. 2](exercises_2025/Exercise02_2025_deep_learning.pdf)|           
 | 3        | 09/10/2025 | Thursday  | Complexity Theory                                |[Ex. 3](exercises_2025/Exercise03_2025_deep_learning.pdf)|           
-| 4        | 23/10/2025 | Thursday  | Optimization                                     ||          
+| 4        | 23/10/2025 | Thursday  | Optimization                                     |[Ex. 4](exercises_2025/Exercise04_2025_deep_learning.pdf)|          
 | 5        | 30/10/2025 | Thursday  | Optimization Landscape of Neural Networks                                           ||           
 | 6        | 06/11/2025 | Thursday  | Midterm        ||         
 | 7        | 13/11/2025 | Thursday  | Architecture                                     ||           
