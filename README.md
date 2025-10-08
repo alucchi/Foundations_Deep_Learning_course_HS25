@@ -12,7 +12,7 @@ Kollegienhaus, Hörsaal 115 (Petersplatz 1, 4051 Basel)
 Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 ## Preliminary dates for continuous assessments (15% of final grade)
-- CA1: Thursday, 16/10/2025 CA on Approximation and complexity theory
+- CA1: Thursday, 23/10/2025 CA on Approximation and complexity theory
 - CA2: Thursday, 06/11/2025 QA on Optimization
 - CA3: Thursday, 13/11/2025 CA on Optimization Landscape in NN
 - CA4: Thursday, 20/11/2025 QA on Neural Tangent Kernel
@@ -29,15 +29,15 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 1       | 25/09/2025 | Thursday | Approximation Theory                                      |[Slides 2](lecture_slides_2025/sl_02_approximation.pdf)|               
 | 2       | 01/10/2025 | Wednesday| Complexity Theory                                         |[Slides 3](lecture_slides_2025/sl_03_complexity.pdf)|           
 | 3       | 08/10/2025 | Wednesday| Optimization                                              |[Slides 4](lecture_slides_2025/sl_04_optimization.pdf)|           
-| 4       | 15/10/2025 | Wednesday| Optimization Landscape of Neural Networks                                                          ||           
-| 5       | 22/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 ||          
-| 6       | 29/10/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)      | |           
-| 7       | 05/11/2025 | Wednesday| Neural Tangent Kernel      | |           
-| 8       | 12/11/2025 | Wednesday| Generalization bounds I                                    ||           
-| 9       | 19/11/2025 | Wednesday| Generalization bounds II                                   ||           
-| 10      | 26/11/2025 | Wednesday| Adversarial Examples                                  | |           
-| 11      | 03/12/2025 | Wednesday| Regularization                                      ||           
-| 12      | 10/12/2025 | Wednesday| Q&A, Recap                                            ||           
+| 4       | 15/10/2025 | Wednesday| Optimization Landscape of Neural Networks                 |[Slides 5](lecture_slides_2025/sl_05_landscape.pdf)|           
+| 5       | 16/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 |[Slides 6](lecture_slides_2025/sl_06_architecture_I.pdf)|          
+| 6       | 22/10/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)      | |           
+| 7       | 29/10/2025 | Wednesday| Neural Tangent Kernel      | |           
+| 8       | 05/11/2025 | Wednesday| Generalization bounds I                                    ||           
+| 9       | 12/11/2025 | Wednesday| Generalization bounds II                                   ||           
+| 10      | 19/11/2025 | Wednesday| Adversarial Examples                                  | |           
+| 11      | 26/11/2025 | Wednesday| Regularization                                      ||           
+| 12      | 03/12/2025 | Wednesday| Q&A, Recap                                            ||           
        
 
 ## Exercise schedule
@@ -48,16 +48,15 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 1        | 24/09/2025 | Wednesday | Basics + Linear & non-linear networks            |[Ex. 1](exercises_2025/Exercise01_2025_deep_learning.pdf)|           
 | 2        | 02/10/2025 | Thursday  | Approximation Theory                             |[Ex. 2](exercises_2025/Exercise02_2025_deep_learning.pdf)|           
 | 3        | 09/10/2025 | Thursday  | Complexity Theory                                |[Ex. 3](exercises_2025/Exercise03_2025_deep_learning.pdf)|           
-| 4        | 16/10/2025 | Thursday  | Tutorial session                                 ||           
-| 5        | 23/10/2025 | Thursday  | Optimization                                     ||          
-| 6        | 30/10/2025 | Thursday  | Optimization Landscape of Neural Networks                                           ||           
-| 7        | 06/11/2025 | Thursday  | Midterm        ||         
-| 8        | 13/11/2025 | Thursday  | Architecture                                     ||           
-| 9        | 20/11/2025 | Thursday  | Neural Tangent Kernel                            ||           
-| 10       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
-| 11       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
-| 12       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)          ||           
-| 13       | 18/12/2025 | Thursday | Q&A session + Continuous assessment              ||           
+| 4        | 23/10/2025 | Thursday  | Optimization                                     ||          
+| 5        | 30/10/2025 | Thursday  | Optimization Landscape of Neural Networks                                           ||           
+| 6        | 06/11/2025 | Thursday  | Midterm        ||         
+| 7        | 13/11/2025 | Thursday  | Architecture                                     ||           
+| 8        | 20/11/2025 | Thursday  | Neural Tangent Kernel                            ||           
+| 9       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
+| 10       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
+| 11       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)          ||           
+| 12       | 18/12/2025 | Thursday | Q&A session + Continuous assessment              ||           
 
 
 ## Continuous assessment
