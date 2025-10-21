@@ -30,7 +30,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 2       | 01/10/2025 | Wednesday| Complexity Theory                                         |[Slides 3](lecture_slides_2025/sl_03_complexity.pdf)|           
 | 3       | 08/10/2025 | Wednesday| Optimization                                              |[Slides 4](lecture_slides_2025/sl_04_optimization.pdf)|           
 | 4       | 15/10/2025 | Wednesday| Optimization Landscape of Neural Networks                 |[Slides 5](lecture_slides_2025/sl_05_landscape.pdf)|           
-| 5       | 16/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 |[Slides 6+7](lecture_slides_2025/sl_06+07_architecture.pdf)|          
+| 5       | 16/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 |[Slides 6+7](lecture_slides_2025/sl_06+07_architectures_updated.pdf)|          
 | 6       | 22/10/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)      | |           
 | 7       | 29/10/2025 | Wednesday| Neural Tangent Kernel      | |           
 | 8       | 05/11/2025 | Wednesday| Generalization bounds I                                    ||           
