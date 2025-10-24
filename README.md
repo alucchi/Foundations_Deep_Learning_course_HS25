@@ -49,14 +49,15 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 2        | 02/10/2025 | Thursday  | Approximation Theory                             |[Ex. 2](exercises_2025/Exercise02_2025_deep_learning.pdf)|           
 | 3        | 09/10/2025 | Thursday  | Complexity Theory                                |[Ex. 3](exercises_2025/Exercise03_2025_deep_learning.pdf)|           
 | 4        | 23/10/2025 | Thursday  | Optimization                                     |[Ex. 4](exercises_2025/Exercise04_2025_deep_learning.pdf)|          
-| 5        | 30/10/2025 | Thursday  | Optimization Landscape of Neural Networks                                           ||           
+| 5        | 30/10/2025 | Thursday  | Tutorial session on PyTorch                 ||           
 | 6        | 06/11/2025 | Thursday  | Midterm        ||         
-| 7        | 13/11/2025 | Thursday  | Architecture                                     ||           
-| 8        | 20/11/2025 | Thursday  | Neural Tangent Kernel                            ||           
-| 9       | 27/11/2025 | Thursday  | Generalization bounds I                          ||           
-| 10       | 04/12/2025 | Thursday  | Generalization bounds II                         ||           
-| 11       | 11/12/2025 | Thursday  | Adversarial Examples (+ Regularization)          ||           
-| 12       | 18/12/2025 | Thursday | Q&A session + Continuous assessment              ||           
+| 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks                                  ||           
+| 8        | 20/11/2025 | Thursday  | Architecture         ||           
+| 9        | 26/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
+| 10       | 27/12/2025 | Thursday  | Generalization bounds I                           ||           
+| 11       | 04/12/2025 | Thursday  | Generalization bounds II                        ||           
+| 12       | 11/12/2025 | Thursday | Adversarial Examples (+ Regularization)           ||       
+| 13       | 18/12/2025 | Thursday | Q&A session + Continuous assessment             ||
 
 
 ## Continuous assessment
