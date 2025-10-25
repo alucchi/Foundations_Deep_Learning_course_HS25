@@ -14,10 +14,10 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 ## Preliminary dates for continuous assessments (15% of final grade)
 - CA1: Thursday, 23/10/2025 CA on Approximation and complexity theory
 - CA2: Thursday, 30/10/2025 QA on Optimization
-- CA3: Thursday, 13/11/2025 CA on Optimization Landscape in NN
-- CA4: Thursday, 20/11/2025 QA on Neural Tangent Kernel
-- CA5: Thursday, 11/12/2025 CA on Generalization bounds I + II
-- CA6: Thursday, 18/12/2025 QA on Architectures & Regularization
+- CA3: Thursday, 20/11/2025 CA on Optimization Landscape in NN
+- CA4: Thursday, 27/11/2025 QA on Architectures
+- CA5: Thursday, 11/12/2025 CA on Neural Tangent Kernel 
+- CA6: Thursday, 18/12/2025 QA on Generalization bounds I + II
 
 &nbsp;
 
@@ -33,11 +33,11 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 5       | 16/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 |[Slides 6+7](lecture_slides_2025/sl_06+07_architectures_updated.pdf)|          
 | 6       | 22/10/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)      | |           
 | 7       | 29/10/2025 | Wednesday| Neural Tangent Kernel      | |           
-| 8       | 05/11/2025 | Wednesday| Generalization bounds I                                    ||           
-| 9       | 12/11/2025 | Wednesday| Generalization bounds II                                   ||           
-| 10      | 19/11/2025 | Wednesday| Adversarial Examples                                  | |           
-| 11      | 26/11/2025 | Wednesday| Regularization                                      ||           
-| 12      | 03/12/2025 | Wednesday| Q&A, Recap                                            ||           
+| 8       | 05/11/2025 | Wednesday| Adversarial Examples                                    ||           
+| 9       | 12/11/2025 | Wednesday| Reinforcement Learning                                   ||           
+| 10      | 26/11/2025 | Wednesday| Generalization I (Lecturer: Francesco Scala)                                      ||           
+| 11      | 03/12/2025 | Wednesday| Generalization II (Lecturer: Francesco Scala)                                            ||
+| 12      | 10/12/2025 | Wednesday| Regularization + exam review                                            || 
        
 
 ## Exercise schedule
@@ -52,12 +52,12 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 5        | 30/10/2025 | Thursday  | Tutorial session on PyTorch                 ||           
 | 6        | 06/11/2025 | Thursday  | Midterm        ||         
 | 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks                                  ||           
-| 8        | 20/11/2025 | Thursday  | Architecture         ||           
-| 9        | 26/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
-| 10       | 27/12/2025 | Thursday  | Generalization bounds I                           ||           
-| 11       | 04/12/2025 | Thursday  | Generalization bounds II                        ||           
-| 12       | 11/12/2025 | Thursday | Adversarial Examples (+ Regularization)           ||       
-| 13       | 18/12/2025 | Thursday | Q&A session + Continuous assessment             ||
+| 8        | 19/11/2025 | Thursday  | Architecture         ||           
+| 9        | 20/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
+| 10       | 27/11/2025 | Thursday  | Adversarial Examples                            ||           
+| 11       | 04/12/2025 | Thursday  | Generalization bounds I                        ||           
+| 12       | 11/12/2025 | Thursday |  Generalization bounds II          ||       
+| 13       | 18/12/2025 | Thursday | Regularization ||
 
 
 ## Continuous assessment
