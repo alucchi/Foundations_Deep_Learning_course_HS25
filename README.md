@@ -54,7 +54,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks                                  ||           
 | 8        | 19/11/2025 | Thursday  | Architecture         ||           
 | 9        | 20/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
-| 10       | 27/11/2025 | Thursday  | Adversarial Examples                            ||           
+| 10       | 27/11/2025 | Thursday  | Adversarial Examples & Reinforcement Learning                            ||           
 | 11       | 04/12/2025 | Thursday  | Generalization bounds I                        ||           
 | 12       | 11/12/2025 | Thursday |  Generalization bounds II          ||       
 | 13       | 18/12/2025 | Thursday | Regularization ||
