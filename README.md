@@ -33,7 +33,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 5       | 16/10/2025 | Wednesday| Architecture, Part I (no lecture notes, only slides)                 |[Slides 6+7](lecture_slides_2025/sl_06+07_architectures_updated.pdf)|          
 | 6       | 22/10/2025 | Wednesday| Architecture, Part II (no lecture notes, only slides)      ||           
 | 7       | 29/10/2025 | Wednesday| Neural Tangent Kernel      | [Slides 8](lecture_slides_2025/sl_08_NTK.pdf) |           
-| 8       | 05/11/2025 | Wednesday| Adversarial Examples                                    ||           
+| 8       | 05/11/2025 | Wednesday| Adversarial Examples                                    |[Slides 0](lecture_slides_2025/sl_09_adversarial.pdf)|           
 | 9       | 12/11/2025 | Wednesday| Reinforcement Learning                                   ||           
 | 10      | 26/11/2025 | Wednesday| Generalization I (Lecturer: Francesco Scala)                                      ||           
 | 11      | 03/12/2025 | Wednesday| Generalization II (Lecturer: Francesco Scala)                                            ||
