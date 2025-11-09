@@ -51,7 +51,7 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 4        | 23/10/2025 | Thursday  | Optimization                                     |[Ex. 4](exercises_2025/Exercise04_2025_deep_learning.pdf)|          
 | 5        | 30/10/2025 | Thursday  | Tutorial session on PyTorch                 |[Jupyter notebook](exercises_2025/Training_MNIST_from_scratch.ipynb)|           
 | 6        | 06/11/2025 | Thursday  | Midterm        ||         
-| 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks                                  ||           
+| 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks        |[Ex. 5](exercises_2025/Exercise05_2025_deep_learning.pdf)|           
 | 8        | 19/11/2025 | Thursday  | Architecture         ||           
 | 9        | 20/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
 | 10       | 27/11/2025 | Thursday  | Adversarial Examples & Reinforcement Learning                            ||           
