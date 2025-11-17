@@ -52,8 +52,8 @@ Please to read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the 
 | 5        | 30/10/2025 | Thursday  | Tutorial session on PyTorch                 |[Jupyter notebook](exercises_2025/Training_MNIST_from_scratch.ipynb)|           
 | 6        | 06/11/2025 | Thursday  | Midterm        ||         
 | 7        | 13/11/2025 | Thursday  | Optimization Landscape of Neural Networks        |[Ex. 5](exercises_2025/Exercise05_2025_deep_learning.pdf)|           
-| 8        | 19/11/2025 | Thursday  | Architecture         |[Ex. 6](exercises_2025/Exercise06_2025_deep_learning.pdf)|           
-| 9        | 20/11/2025 | Wednesday | Neural Tangent Kernel                      ||           
+| 8        | 19/11/2025 | Wednesday  | Architecture         |[Ex. 6](exercises_2025/Exercise06_2025_deep_learning.pdf)|           
+| 9        | 20/11/2025 | Thursday | Neural Tangent Kernel                      ||           
 | 10       | 27/11/2025 | Thursday  | Adversarial Examples & Reinforcement Learning                            ||           
 | 11       | 04/12/2025 | Thursday  | Generalization bounds I                        ||           
 | 12       | 11/12/2025 | Thursday |  Generalization bounds II          ||       
