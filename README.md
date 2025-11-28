@@ -55,7 +55,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 8        | 19/11/2025 | Wednesday  | Architecture         |[Ex. 6](exercises_2025/Exercise06_2025_deep_learning.pdf)|           
 | 9        | 20/11/2025 | Thursday | Neural Tangent Kernel                      |[Ex. 7](exercises_2025/Exercise07_2025_deep_learning.pdf) |           
 | 10       | 27/11/2025 | Thursday  | Reinforcement Learning                            |[Ex. 8](exercises_2025/Exercise08_2025_deep_learning.pdf)|           
-| 11       | 04/12/2025 | Thursday  | Adversarial Examples                        ||           
+| 11       | 04/12/2025 | Thursday  | Adversarial Examples                        |[Ex. 9](exercises_2025/Exercise09_2025_deep_learning.pdf)|           
 | 12       | 11/12/2025 | Thursday |  Generalization bounds I          ||       
 | 13       | 18/12/2025 | Thursday | Regularization ||
 
@@ -65,7 +65,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
 - 25% mid-term exam (written). Preliminary date: during exercise session on Thursday, October 30, 2025
-- 25% project (writeup and presentation (for bonus))
+- 25% project (write-up and presentation (for bonus))
 - 35% written exam (written)
 
 
@@ -73,11 +73,11 @@ Note the following split:
 ## Exam
 Date for written exam: Thursday, February 5, 2026, 10-12 a.m., Spiegelgasse 5, room 05.002.
 
-Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
+Information about the exam: you can bring 2 two-sided A4 sheets or 4 one-sided A4 sheets (hand-written or LaTeX).
 
 
 ## Projects
-Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
+Projects must be completed in groups of 2-3 students. Two types of projects you can pursue are:
 1) A novel and sound solution to a problem discussed in the class
 2) Thorough theoretical analysis of an existing deep learning approach discussed in the class
 Students cannot use their own published work as the course project.
