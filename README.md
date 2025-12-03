@@ -37,8 +37,9 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 9       | 12/11/2025 | Wednesday| Reinforcement Learning                                   |[Slides 10](lecture_slides_2025/sl_10_reinforcement_learning.pdf)|           
 | 10      | 26/11/2025 | Wednesday| Generalization I (Lecturer: Francesco Scala)                                      |[Slides 11](lecture_slides_2025/sl_11_generalization_1.pdf)|           
 | 11      | 03/12/2025 | Wednesday| Generalization II (Lecturer: Francesco Scala)                                            |[Slides 12](lecture_slides_2025/sl_12_generalization_2.pdf)|
-| 12      | 10/12/2025 | Wednesday| Regularization + exam review                                            || 
-       
+| 12      | 10/12/2025 | Wednesday| No lecture                                            || 
+| 13      | 17/12/2025 | Wednesday| Regularization + exam review                                            || 
+
 
 ## Exercise schedule
 
