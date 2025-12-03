@@ -38,7 +38,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 10      | 26/11/2025 | Wednesday| Generalization I (Lecturer: Francesco Scala)                                      |[Slides 11](lecture_slides_2025/sl_11_generalization_1.pdf)|           
 | 11      | 03/12/2025 | Wednesday| Generalization II (Lecturer: Francesco Scala)                                            |[Slides 12](lecture_slides_2025/sl_12_generalization_2.pdf)|
 | 12      | 10/12/2025 | Wednesday| No lecture                                            || 
-| 13      | 17/12/2025 | Wednesday| Regularization + exam review                                            || 
+| 13      | 17/12/2025 | Wednesday| Exam review                                            || 
 
 
 ## Exercise schedule
@@ -58,7 +58,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 10       | 27/11/2025 | Thursday  | Reinforcement Learning                            |[Ex. 8](exercises_2025/Exercise08_2025_deep_learning.pdf)|           
 | 11       | 04/12/2025 | Thursday  | Adversarial Examples                        |[Ex. 9](exercises_2025/Exercise09_2025_deep_learning.pdf)|           
 | 12       | 11/12/2025 | Thursday |  Generalization bounds I          ||       
-| 13       | 18/12/2025 | Thursday | Regularization ||
+| 13       | 18/12/2025 | Thursday | CA on Generalization bounds + Q&A ||
 
 
 ## Continuous assessment
