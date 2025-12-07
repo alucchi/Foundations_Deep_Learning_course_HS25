@@ -57,7 +57,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 9        | 20/11/2025 | Thursday | Neural Tangent Kernel                      |[Ex. 7](exercises_2025/Exercise07_2025_deep_learning.pdf) |           
 | 10       | 27/11/2025 | Thursday  | Reinforcement Learning                            |[Ex. 8](exercises_2025/Exercise08_2025_deep_learning.pdf)|           
 | 11       | 04/12/2025 | Thursday  | Adversarial Examples                        |[Ex. 9](exercises_2025/Exercise09_2025_deep_learning.pdf)|           
-| 12       | 11/12/2025 | Thursday |  Generalization bounds I          ||       
+| 12       | 11/12/2025 | Thursday |  Generalization bounds          |[Ex. 10](exercises_2025/Exercise10_2025_deep_learning.pdf)|       
 | 13       | 18/12/2025 | Thursday | CA on Generalization bounds + CAs review ||
 
 
