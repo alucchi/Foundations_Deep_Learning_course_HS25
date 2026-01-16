@@ -61,7 +61,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 13       | 18/12/2025 | Thursday | CA on Generalization bounds + CAs review ||
 
 
-## Continuous assessment
+## Continuous assessments (CAs)
 
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
@@ -71,10 +71,13 @@ Note the following split:
 
 
 
-## Exam
+## Exam and CAs
 Date for written exam: Thursday, February 5, 2026, 10-12 a.m., Spiegelgasse 5, room 05.002.
 
-Information about the exam: you can bring 2 two-sided A4 sheets or 4 one-sided A4 sheets (hand-written or LaTeX).
+Information about the exam:
+Students are allowed to bring either two double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
+
+Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
 
 ## Projects
